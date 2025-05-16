@@ -1,5 +1,31 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
+/* :root{
+    background-color: green;
+} */
 
 body{
-    background: white;
+    background: green;
+   
+}
+
+#suitsTwo {
+    
+     margin-left:150px;
+     transform:rotate(180deg);
+}
+
+.card{
+    margin:10rem auto;
+    font-size:6rem;
+    max-width: 25rem;
+    max-length: 25rem;
+    object-fit:cover;
+    width: 250px;
+    height: 430px;
+    border-radius: 10px; 
+
+}
+ 
+#suits{
+    margin-right:150px;
 }
